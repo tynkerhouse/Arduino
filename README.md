@@ -14,4 +14,4 @@ To use the code of a particular project,
 The projects are listed below (Updating continuously so be sure to check back)
 - 8 LEDs
 - 7-segment display
-
+- Ultrasound sensor with LCD display
